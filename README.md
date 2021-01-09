@@ -1,2 +1,2 @@
-1) разобраться со стилями Checkbox
+1) разобраться со стилями Checkbox - styledComponent
 2) валидация?
